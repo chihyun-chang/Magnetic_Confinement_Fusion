@@ -1,4 +1,6 @@
-# The Pure Theory of Research of Magnetic Confinement Fusion conducted with OpenAI, Google Gemini, Claude AI
+# Magnetic Confinement Fusion
+
+### The Pure Theory of Research conducted with OpenAI, Google Gemini, Claude AI
 
 [Link to WSJ article](https://www.wsj.com/world/china/china-us-fusion-race-4452d3be)
 
